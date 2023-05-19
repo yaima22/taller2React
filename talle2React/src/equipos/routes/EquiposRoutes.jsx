@@ -9,7 +9,7 @@ export const EquiposRoutes = () => {
       <Routes>
         
       <Route path="/" element={<Equipos />}/>
-      <Route path="/buscar" element={<Buscar />}/>
+      <Route path="/Buscar" element={<Buscar />}/>
 
         <Route path="/" element={<Navigate to="/Equipos" />}/>
       </Routes>

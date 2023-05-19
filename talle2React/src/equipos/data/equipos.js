@@ -1,0 +1,72 @@
+export const equipos = [
+    {
+        'id': 'equ_1',
+        'equipo':'Boca Juniors', 
+        'liga':'Argentina', 
+        'copas':'6 veces campeon',
+        'nacimiento':'1908',
+    },
+    {
+        'id': 'equ_2',
+        'equipo':'River Plate', 
+        'liga':'Argentina', 
+        'copas':'4 veces campeon',
+        'nacimiento':'1906',
+    },
+    {
+        'id': 'equ_3',
+        'equipo':'America de Cali', 
+        'liga':'FPC Colombiano', 
+        'copas':'0 veces campeon',
+        'nacimiento':'1908',
+    },
+    {
+        'id': 'equ_4',
+        'equipo':'Atletico Nacional', 
+        'liga':'FPC Colombiano', 
+        'copas':'22 veces campeon',
+        'nacimiento':'1947',
+    },
+    {
+        'id': 'equ_5',
+        'equipo':'Real Madrid', 
+        'liga':'Española', 
+        'copas':'14 veces campeon',
+        'nacimiento':'1902',
+    },
+    {
+        'id': 'equ_6',
+        'equipo':'Barcelona', 
+        'liga':'Española', 
+        'copas':'5 veces campeon',
+        'nacimiento':'1899',
+    },
+    {
+        'id': 'equ_7',
+        'equipo':'Atletico Madrid', 
+        'liga':'Española', 
+        'copas':'14 veces campeon',
+        'nacimiento':'1903',
+    },
+    {
+        'id': 'equ_8',
+        'equipo':'Liverpool', 
+        'liga':'Inglesa', 
+        'copas':'6 veces campeon',
+        'nacimiento':'1892',
+    },
+    {
+        'id': 'equ_9',
+        'equipo':'Manehster City', 
+        'liga':'inglesa', 
+        'copas':'0 veces campeon',
+        'nacimiento':'1880',
+    },
+    {
+        'id': 'equ_10',
+        'equipo':'Inter de Milan', 
+        'liga':'Italiana', 
+        'copas':'3 veces campeon',
+        'nacimiento':'1908',
+    }
+]
