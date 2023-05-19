@@ -1,4 +1,4 @@
-import { Route, Routes } from 'react-dom'
+import { Route, Routes } from 'react-router-dom'
 import { EquiposRoutes } from '../equipos'
 
 export const AppRouter = () => {

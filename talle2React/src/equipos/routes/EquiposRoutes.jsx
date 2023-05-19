@@ -1,11 +1,17 @@
-//import { Navbar } from "../../ui"
-import{Route, Routes} from 'react-dom'
-
+import { Navbar } from "../../ui"
+import{Navigate, Route, Routes} from 'react-router-dom'
+import { Equipos, Buscar } from '../pages'
 export const EquiposRoutes = () => {
   return (
     <>
+     < Navbar />
+     
       <Routes>
-        <Route path="/"
+        
+      <Route path="/" element={<Equipos />}/>
+      <Route path="/buscar" element={<Buscar />}/>
+
+        <Route path="/" element={<Navigate to="/Equipos" />}/>
       </Routes>
     </>
   )
