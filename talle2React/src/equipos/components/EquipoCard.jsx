@@ -12,7 +12,7 @@ export const EquipoCard = ({
 
   return (
     <>
-<div className="col animate__animated animate__fadeInUp">
+<div className="col animate__animated animate__fadeInLeftBig">
   <div className="card">
     <div className="row no-gutters">
         <div className="col-4">
