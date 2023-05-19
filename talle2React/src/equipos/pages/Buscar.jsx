@@ -7,7 +7,7 @@ export const Buscar = () => {
     <>
      <h1>Filtra los Equipos por Pais</h1>
      <hr />
-     <h4>Ingresa el nombre de el Equipo</h4>
+     <h4>Ingresa el nombre de el Equipo 1</h4>
      <hr />
     
           <input
