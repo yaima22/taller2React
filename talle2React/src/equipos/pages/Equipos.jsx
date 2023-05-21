@@ -1,12 +1,12 @@
-import { getEquipos } from "../helpers"
+
 import { EquipoList } from "../components"
 
 export const Equipos = () => {
-  const equipo = getEquipos()
+ 
   return (
     
     <>
-     <h1>Lista de Equipos</h1>
+     <h1>Lista de Equipos de futbol</h1>
     <EquipoList/>
     </>
     

@@ -7,12 +7,11 @@ export const EquiposRoutes = () => {
      < Navbar />
      
       <Routes>
-        
-      <Route path="/" element={<Equipos />}/>
+      <Route path="/Equipos" element={<Equipos />}/>
       <Route path="/Buscar" element={<Buscar />}/>
-
-        <Route path="/" element={<Navigate to="/Equipos" />}/>
+      <Route path="/" element={<Navigate to="/Equipos" />}/>
       </Routes>
+      
     </>
   )
 }

@@ -6,6 +6,7 @@ export const AppRouter = () => {
     <>
     <Routes>
         <Route path="/*"  element={<EquiposRoutes />} />
+        
     </Routes>
     </>
   )

@@ -16,7 +16,7 @@ export const Navbar = () => {
             
             <Link 
                 className="navbar-brand" 
-                to="/"
+                to="/Equipos"
             >
                 Equipos
             </Link>
