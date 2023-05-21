@@ -14,7 +14,7 @@ export const EquipoCard = ({
 <div className="col animate__animated animate__fadeInLeftBig">
   <div className="card">
     <div className="row no-gutters">
-        <div className="col-md4">
+        <div className="col-4">
             <img src={url} className="card-img" alt="{superhero}" />
           </div>
           <div className="col-8">
